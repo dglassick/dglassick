@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything to put in a portfolio! Teamwork makes the dream work.
 - 📫 How to reach me derek.glassick@gmail.com or on LinkedIn [here](https://www.linkedin.com/in/derek-glassick/). 
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dglassick&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dglassick&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,redux,vercel,nodejs,mongodb,mysql,nextjs,jquery,github,postman,graphql,bootstrap)](https://skillicons.dev)
 
